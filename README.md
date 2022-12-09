@@ -75,8 +75,8 @@ The e2e tests are using Protractor and Jasmine.
   
   ## screenshots: 
   
-  ![Alt text](/udagram/screenshots/RDS.png?raw=true )
-  ![Alt text](/udagram/screenshots/bucket-s3.png?raw=true )
+  ![Alt text](/screenshots/RDS.png?raw=true )
+  ![Alt text](/screenshots/bucket-s3.png?raw=true )
   
   
   ## frontend url:
