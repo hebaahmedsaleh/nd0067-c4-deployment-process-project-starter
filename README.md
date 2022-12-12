@@ -77,10 +77,13 @@ The e2e tests are using Protractor and Jasmine.
   
   ![Alt text](./udagram/screenshots/RDS.png)
   ![Alt text](./udagram/screenshots/bucket-s3.png)
-  ![Alt text](./udagram/screenshots/circle-ci.png.png) 
+  ![Alt text](./udagram/screenshots/AWS-Elasticbeanstalk.png) 
   ![Alt text](./udagram/screenshots/deploy.png)
   
+  ## circleci branch develop deploy
+    ![Alt text](./udagram/screenshots/circleci-last-build.png)
+
   ## frontend url:
-  http://udagram-application.s3-website-us-east-1.amazonaws.com/index.html
+  http://udacity-udagram-app.s3-website-us-east-1.amazonaws.com/
 
   
