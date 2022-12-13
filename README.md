@@ -83,6 +83,9 @@ The e2e tests are using Protractor and Jasmine.
 ![Alt text](./screenshots/last-deploy.png)
 ![Alt text](./screenshots/circleci-last-build.png)
 
+## circle ci env variables
+![Alt text](./screenshots/C18325B2-8CB2-4D16-82F9-B96E83D4A0F0.png)
+
 ## frontend url:
 
 http://udacity-udagram-app.s3-website-us-east-1.amazonaws.com/
