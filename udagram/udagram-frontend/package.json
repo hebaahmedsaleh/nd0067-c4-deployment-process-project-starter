@@ -4,7 +4,6 @@
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
   "scripts": {
-    "install": "npm run install",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",

@@ -1,6 +1,5 @@
 {
   "scripts": {
-    "install": "npm run install",
     "frontend:install": "cd udagram/udagram-frontend && npm install -f",
     "frontend:start": "cd udagram/udagram-frontend && npm run start",
     "frontend:build": "cd udagram/udagram-frontend && npm run build",
